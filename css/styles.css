@@ -11,6 +11,18 @@ img {
   margin-right: auto;
   width: 30%;
 }
+.test-box {
+  border: 2px solid red;
+  padding: 6px;
+  margin: 20px;
+  background-color: yellow;
+}
+.sidebar {
+width: 60%;
+float: right;
+background-color: red;
+}
+
 
 h2 {
   color: pink;
@@ -31,6 +43,7 @@ h5{
   color: pink;
   font-style:oblique;
   font-size: 30px;
+
 }
 body {
   background-color: #800080;
@@ -49,4 +62,7 @@ li {
   display: oneline;
   font-family: verdana;
   font-size: 20px;
+}
+.Education p {
+  background-color: #808000;
 }

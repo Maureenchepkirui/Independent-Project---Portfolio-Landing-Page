@@ -11,16 +11,16 @@ img {
   margin-right: auto;
   width: 30%;
 }
-.test-box {
-  border: 2px solid red;
-  padding: 6px;
-  margin: 20px;
-  background-color: yellow;
+.boxed {
+ border: 2px solid green;
+ padding: 6px;
+ margin: 20px;
+ background-color: #2F4F4F;
 }
 .sidebar {
 width: 60%;
 float: right;
-background-color: red;
+background-color: #A52A2A;
 }
 
 
@@ -64,5 +64,5 @@ li {
   font-size: 20px;
 }
 .Education p {
-  background-color: #808000;
+  background-color: #800000;
 }

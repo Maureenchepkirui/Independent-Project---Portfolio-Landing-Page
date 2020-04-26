@@ -15,35 +15,37 @@ img {
 h2 {
   color: pink;
   font-style:oblique;
+  font-size: 30px;
 }
 h3{
   color: pink;
   font-style:oblique;
+  font-size: 30px;
 }
 h4{
   color: pink;
   font-style:oblique;
+  font-size: 30px;
 }
 h5{
   color: pink;
   font-style:oblique;
+  font-size: 30px;
+}
+body {
+  background-color: #800080;
+}
 
 p {
   font-family: verdana;
-  font-size: 40px;
-  color: pink;
+  font-size: 20px;
+  color: black;
 }
+
 ol {
   line-height: 40px;
 }
-  body {
-  background-color: #800080;
-}
-  #grad {
-  background-image: linear-gradient(red, yellow);
-}
-}
 li {
   display: oneline;
-  font-size: 40px
+
 }

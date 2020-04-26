@@ -1,0 +1,45 @@
+h1 {
+  color: pink;
+  text-align: center;
+  background-color: red
+  font-size:40px;
+  font-style:italic;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+h2 {
+  color: pink;
+  font-style:oblique;
+}
+h3{
+  color: pink;
+  font-style:oblique;
+}
+
+
+}
+
+p {
+  font-family: verdana;
+  font-size: 40px;
+  color: pink;
+}
+ol {
+  line-height: 40px;
+}
+  body {
+  background-color: #800080;
+}
+  #grad {
+  background-image: linear-gradient(red, yellow);
+}
+}
+li {
+  display: oneline;
+  font-size: 40px
+}

@@ -1,5 +1,5 @@
 # {Portfolio Landing Page}
-#### {A web portfolio to showcase my projects,skills.job experienc,education},
+#### {A web portfolio to showcase my projects,skills.job experience,education},
 #### By **{Maureen Chepkirui}**
 ## Description{A portfolio that shows my projects,skills and education background}
 ## Setup/Installation Requirements

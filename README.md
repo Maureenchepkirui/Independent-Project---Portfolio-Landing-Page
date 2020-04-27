@@ -8,7 +8,7 @@
 * atom/vs code
 ## Technologies Used
 {HTML,CSS}
-## Email:maureenchepkirui005@gmail
+## Email:maureenchepkirui005@gmail.com
 ##link hreff: https://github.com/Maureenchepkirui/Independent-Project---Portfolio-Landing-Page
 ### License
 MIT License
